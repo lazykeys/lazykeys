@@ -1,5 +1,7 @@
 ## Hey there, I'm lazykeys 💤
 
+I'm a game and application developer specializing in Unity, C#, and Lua projects. I also enjoy creating frontends using React and Tailwind CSS.
+
 <!--
 **lazykeys/lazykeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
